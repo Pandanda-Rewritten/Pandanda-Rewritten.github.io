@@ -1,0 +1,6 @@
+﻿---
+label: Firewood
+---
+
+Locations:
+ - Forest

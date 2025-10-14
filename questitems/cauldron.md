@@ -1,0 +1,6 @@
+﻿---
+label: Cauldron
+---
+
+Locations:
+ - Orchard
