@@ -11,7 +11,7 @@ branding:
   title: Pandanda Rewritten
   label: Players Guide
 
-favicon: media/favicon.png
+favicon: media/favicon.ico
 
 links:
   - text: Getting Started
