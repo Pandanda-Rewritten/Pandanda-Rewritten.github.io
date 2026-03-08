@@ -1,6 +1,0 @@
-﻿---
-label: Spider
----
-
-Locations:
- - Forest

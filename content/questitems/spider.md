@@ -1,0 +1,6 @@
+﻿---
+title: Spider
+---
+
+Locations:
+ - Forest

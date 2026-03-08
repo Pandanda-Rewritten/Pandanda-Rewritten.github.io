@@ -1,0 +1,6 @@
+﻿---
+title: Firewood
+---
+
+Locations:
+ - Forest

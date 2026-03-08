@@ -1,6 +1,0 @@
-﻿---
-label: Letter
----
-
-Locations:
- - Anywhere

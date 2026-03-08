@@ -1,0 +1,6 @@
+﻿---
+title: Amethyst
+---
+
+Locations:
+ - Forest

@@ -1,6 +1,0 @@
-﻿---
-label: Leaves
----
-
-Locations:
- - Forest

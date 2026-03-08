@@ -1,6 +1,0 @@
-﻿---
-label: Amethyst
----
-
-Locations:
- - Forest

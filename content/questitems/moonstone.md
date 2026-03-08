@@ -1,0 +1,6 @@
+﻿---
+title: Moonstone
+---
+
+Locations:
+ - Forest

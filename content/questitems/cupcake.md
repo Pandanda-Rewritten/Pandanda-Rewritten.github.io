@@ -1,0 +1,6 @@
+﻿---
+title: Cupcake
+---
+
+Locations:
+ - Anywhere

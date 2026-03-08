@@ -1,0 +1,6 @@
+﻿---
+title: Snowman
+---
+
+Locations:
+ - Orchard

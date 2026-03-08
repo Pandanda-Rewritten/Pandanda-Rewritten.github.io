@@ -1,6 +1,0 @@
-﻿---
-label: Moonstone
----
-
-Locations:
- - Forest

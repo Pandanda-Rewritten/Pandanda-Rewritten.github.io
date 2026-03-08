@@ -1,6 +1,0 @@
-﻿---
-label: Cupcake
----
-
-Locations:
- - Anywhere

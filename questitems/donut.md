@@ -1,6 +1,0 @@
-﻿---
-label: Donut
----
-
-Locations:
- - Anywhere

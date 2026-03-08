@@ -1,0 +1,6 @@
+﻿---
+title: Bat
+---
+
+Locations:
+ - Forest

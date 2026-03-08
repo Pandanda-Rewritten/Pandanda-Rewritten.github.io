@@ -1,6 +1,0 @@
-﻿---
-label: Bat
----
-
-Locations:
- - Forest
