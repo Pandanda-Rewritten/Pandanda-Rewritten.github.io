@@ -4,7 +4,7 @@ output: .retype
 url: pandanda-rewritten.github.io # Use your website address here
 
 start:
-  # Uncomment the next line to try Retype Pro features
+  # Try the Retype Pro features
   pro: true
 
 branding:
